@@ -1,5 +1,9 @@
-My name is tanish-btw 
-This is me practicing git
+--This file will work as an index for changes message after you have commit a change you must specifu here in short
+--Every new change entry must start with #
 
---------------new changes Must be done after this line-------------------------
-new lines must contain a # in front of them for better understanding of git and what changes were made 
+--------------Put changes entry after this------------------------
+
+#Changed the name.txt to index.txt 
+
+
+
