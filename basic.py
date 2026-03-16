@@ -1,4 +1,4 @@
-a = 55
-b = 65
-c = a + b 
-print(c)
+a = input("enter a number for addition: ")
+b = input("enter a number for addition: ")
+c = int(a) + int(b) 
+print(c)  
