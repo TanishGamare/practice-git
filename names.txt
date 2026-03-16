@@ -1,2 +1,5 @@
 My name is tanish-btw 
 This is me practicing git
+
+--------------new changes Must be done after this line-------------------------
+new lines must contain a # in front of them for better understanding of git and what changes were made 
