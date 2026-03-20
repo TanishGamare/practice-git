@@ -1,3 +1,5 @@
----------x-------------------This repo is for practicing my git skills and git commands
-this repo was made to practice git with my friends and setting a goal of how many commits per day we should maintain 
--------x---------
+---------x-------------------
+This repo is for practicing git skills and git commands
+With the mixture of other programming language to familiarize with git commands directly through terminal
+This is Public for collaborative practice you can push any language file in the repositary
+---------x------------------- 
